@@ -356,7 +356,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/homeimage.JPG') no-repeat;
+  background: url('../images/home-img.JPG') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -383,7 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../images/about-img.JPG') no-repeat;
 }
 
 #about .about-thumb,
@@ -530,7 +530,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+  background: url('../images/contact-img.JPG') no-repeat;
   min-height: 75vh;
 }
 
